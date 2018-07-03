@@ -1,0 +1,1 @@
+export const RANDOM_ACTION = 'RANDOM_ACTION';
